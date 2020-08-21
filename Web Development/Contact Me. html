@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Contact Information</title>
+    <h2>Email Address : ahuja_shreya@outlook.com</h2>
+    <h2>My Blog- www.inherentgoodness.wordpress.com</h2>
+    <hr>
+    <form class="" action="index.html" method="post">
+      <label>Your Name:</label>
+      <input type="text" name="" value=""><br>
+        <input type="checkbox" name="" value="">
+        <input type="color" name="" value="">
+      <label>Do you want to sign up for the e-mail list?</label>
+      <input type="submit" name="">
+        </form>
+  </head>
+  <body>
+
+
+  </body>
+</html>
